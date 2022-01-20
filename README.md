@@ -4,6 +4,8 @@ Origin:
 This game was my original created game for my term project for Computer Science 1 in the fall of 2019 at the University of Houston Clear Lake.
 I came up with the concept, defined the requirements, set a timeline, created the game successfully and aced my project.
 
+You will need to download the final project code and the treasure coin .png that it links to.
+
 Game Summary: 
 
 This is a Python math game using python turtles.
