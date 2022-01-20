@@ -1,9 +1,11 @@
 # CompSci1TermProject---TreasureQuest
 Origin:
+
 This game was my original created game for my term project for Computer Science 1 in the fall of 2019 at the University of Houston Clear Lake.
 I came up with the concept, defined the requirements, set a timeline, created the game successfully and aced my project.
 
 Game Summary: 
+
 This is a Python math game using python turtles.
 The player chooses if they want to play the game.
 The player chooses how many levels to play.
