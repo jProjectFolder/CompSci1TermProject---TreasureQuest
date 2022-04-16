@@ -351,7 +351,7 @@ write.goto(0,-40)
 write.write("is to find the treasure by using the arrow keys.",font = style, align = 'center')
 write.goto(0,-60)
 write.write("""""",font =("Courier",8,'bold'),align = 'center')
-time.sleep(1)
+time.sleep(5)
 write.clear()
 #Choose to play or not and how many LEVELS
 global numLevel
